@@ -1,6 +1,8 @@
 #Latihan 1
 
 **cara membuat reporsitory**
+ 
+Masukan script di bawah ini
 
 **1**
 ![hasilnya](https://github.com/SheiladeviA/latihan1/blob/master/1.png)
